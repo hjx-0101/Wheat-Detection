@@ -1,1 +1,11 @@
+path: /hjx/ultralytics-main/datasets
+train: images/train                         
+ 
+val: images/val                   
+
+test: images/test  
+ 
+# Classes
+names:
+  0: wheat_head
 
